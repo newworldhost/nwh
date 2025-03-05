@@ -76,25 +76,7 @@ To run this project locally, follow these steps:
    cd nwh
    ```
 
-3. Open the index.html file in your browser to view the home page.
-
-## Usage
-
-### Home Page
-
-The home page provides an overview of cybersecurity, its importance, and the different types of cybersecurity.
-
-### About Us Page
-
-The about us page contains information about our mission and team.
-
-### Community Forum
-
-The community forum allows users to post messages. Messages are saved using cookies to persist between sessions.
-
-### Contact Us Page
-
-The contact us page contains a form for users to get in touch with us.
+3. Open the index.html file in your browser to view the home page
 
 ## File Structure
 
