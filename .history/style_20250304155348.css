@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-transform: uppercase;
+    box-shadow: inset 0 0 10px #33ff33;
+    margin: -13px;
+}
+h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-transform: uppercase;
+    box-shadow: inset 0 0 10px #33ff33;
+}
+p {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    box-shadow: inset 0 0 10px #33ff33;
+    line-height: 30px;
+    list-style-type: none;
+}
+body {
+    background-color: black;
+}
+/* navigation */
+ul {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    line-height: 30px;
+    list-style-type: none;
+    display: inline; 
+}
+nav {
+    background-color: black;
+    color: white;
+    display: flex; 
+    margin: 0 350px 0 350px; /* align the navbar in the center */
+    
+}
+li {
+    display:inline-block;
+    text-transform: uppercase;
+
+}
