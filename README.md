@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 
 cd nwh
 
-Here is a README.md file based on the provided files:
+
 
 ```markdown
 # Cyber Security Defence Network
